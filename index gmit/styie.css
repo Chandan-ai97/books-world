@@ -1,0 +1,106 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: black
+}
+#chandan{
+    height: 100px;
+    background-color: goldenrod;
+    width: 100%;
+}
+h1{
+    position: absolute;
+    top: 25px;
+    
+    
+}
+#com{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+}
+#OT{
+    position: absolute;
+    left: 300px;
+
+}
+#OP{
+    position: absolute;
+    top:20px;
+    right: 200px;
+}
+#ami{
+    position: absolute;
+    left: 313px;
+    position: inline;
+}
+#tumi{
+    position: absolute;
+    left: 650px;
+    position: inline;
+}
+#apnar{
+    position: absolute;
+
+}
+#ap{
+    position: absolute;
+   
+    margin-top: 600px;
+}
+#up{
+    position: absolute;
+    padding-top: 650px;
+   margin-left: 300px;
+}
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            margin-top: 1200px;
+        }
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .footer-content p {
+            margin: 0;
+        }
+        .footer-links {
+            list-style: none;
+            padding: 0;
+            margin: 10px 0;
+        }
+        .footer-links li {
+            display: inline;
+            margin: 0 10px;
+        }
+        .footer-links a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .footer-links a:hover {
+            text-decoration: underline;
+        }
+        .social-media a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .social-media a:hover {
+            text-decoration: underline;
+        }
+        marquee {
+            display: block;
+            font-size: 1.2rem;
+            color: #000;
+            background-color: #f8f8f8;
+            padding: 10px;
+        }
